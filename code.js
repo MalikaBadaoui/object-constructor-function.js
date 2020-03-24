@@ -30,3 +30,5 @@ console.log("compteurKm " + voiture1.compteurKm());
 console.log("compteurKm " + voiture2.compteurKm());
 console.log("compteurKm " + voiture1.compteurKm());  // i va ajouter 1 au compteur de la voiture 1
 console.log("compteurKm " + voiture2.compteurKm());  // ""    ""    ""    ""   ""  de la voiture 2
+
+
