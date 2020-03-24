@@ -1,5 +1,5 @@
-# object-constructor-function.js
-object constructor function voiture
+// object-constructor-function.js
+// object constructor function voiture
 
 var date = new Date(2010);    //date de "new Date" écris en majuscule en 1er car C'est une class pas une var
 
